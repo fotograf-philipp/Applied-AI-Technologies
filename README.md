@@ -7,11 +7,11 @@
 * Gestenmodell (Gestensteuerung)
 * Analyse- und Prognose-Modell (Aktienkurs, Corona)
 
-<img src="https://cv-tricks.com/wp-content/uploads/2016/12/AAEAAQAAAAAAAAi-AAAAJDhhMGQwNGY2LTRiNzYtNDcwOC04YTU1LWI4ZmQ1NDVkOTZhZg.jpg" alt="Motiverkennung durch KI" height="180px"/>
+<img src="https://cv-tricks.com/wp-content/uploads/2016/12/AAEAAQAAAAAAAAi-AAAAJDhhMGQwNGY2LTRiNzYtNDcwOC04YTU1LWI4ZmQ1NDVkOTZhZg.jpg" alt="Motiverkennung durch KI" width="480px" height="180px"/>
 
-<img src="https://img.morgenpost.de/img/politik/crop206568409/13326050-w820-cv16_9-q85/artboard-7-1024x686-5e3f7c30-2e2e-4a2e-83f4-3257a5224c64.jpg" alt="Personen mit Mimiken" height="180px"/>
+<img src="https://img.morgenpost.de/img/politik/crop206568409/13326050-w820-cv16_9-q85/artboard-7-1024x686-5e3f7c30-2e2e-4a2e-83f4-3257a5224c64.jpg" alt="Personen mit Mimiken" width="320px" height="180px"/>
 
-<img src="https://directivosygerentes.es/wp-content/uploads/2019/11/Imagen-Post-Blog-Tecnolog%C3%ADas-de-reconocimiento-de-voz-640x387.jpg" alt="Symbolbild zur Spracherkennung" width="300px" height="180px"/>
+<img src="https://directivosygerentes.es/wp-content/uploads/2019/11/Imagen-Post-Blog-Tecnolog%C3%ADas-de-reconocimiento-de-voz-640x387.jpg" alt="Symbolbild zur Spracherkennung" width="320px" max-height="193px"/>
 
 ## Runtime
 ### Inferenzzeit
