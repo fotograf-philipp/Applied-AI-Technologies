@@ -7,8 +7,6 @@
 * Gestenmodell (Gestensteuerung)
 * Analyse- und Prognose-Modell (Aktienkurs, Corona)
 
-<style>img { margin: 0.5em; }</style>
-
 <img src="https://cv-tricks.com/wp-content/uploads/2016/12/AAEAAQAAAAAAAAi-AAAAJDhhMGQwNGY2LTRiNzYtNDcwOC04YTU1LWI4ZmQ1NDVkOTZhZg.jpg" alt="Motiverkennung durch KI" height="180px"/>
 
 <img src="https://img.morgenpost.de/img/politik/crop206568409/13326050-w820-cv16_9-q85/artboard-7-1024x686-5e3f7c30-2e2e-4a2e-83f4-3257a5224c64.jpg" alt="Personen mit Mimiken" height="180px"/>
@@ -43,9 +41,7 @@ Die Zeitspanne von T0 bis T1 entspricht dabei dem Lebenszyklus.
 ## Teachable Machine
 Die Teachable Machine ist ein sich immer weiter entwickelndes KI-Angebot von Google. Bisher können mit dem Webbrowser-Programm Bild-, Sprach- und Gestenerkennungsmodelle auf einfache Weise ohne Code erstellt und anschließend exportiert bzw. wieder neu eingebaut werden. Das Programm basiert auf Tensorflow, welches eine Open Source Machine Learning Bibliothek von dem besagten US-amerikanischen Technologieunternehmen darstellt. Dahinter steckt ein komplexes vortrainiertes neuronales Netz.
 
-```
 Die folgenden Bilder sind Screenshots von der sich im Einsatz befindlichen Teachable Machine, wobei ein Modell durch Katzen- und Hundefotos trainiert wurde, welches diese beiden Tierfamilien unterscheiden kann:
-```
 
 <img src="images/Teachable-Machine.png" alt="TM: Katzen- und Hunde-Input" height="220px"/>
 <img src="images/Teachable-Machine_2.png" alt="TM: Output-Test" height="220px"/>
