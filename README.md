@@ -20,9 +20,7 @@ Inferenzzeit entspricht dem Intervall zwischen dem Input und dem Output eines Mo
 
 **Diese hängt von vielen verschiedenen Faktoren ab:**
 
-Die Dauer wird zum einen von der Qualität des Inputs bestimmt. Dabei gilt: Je besser die Qualität, desto genauer kann das Ergebnis ermittelt werden (bei der Bildanalyse können z.B. Motive und ihre Details bei einer besseren Bildqualität viel besser von der KI erkannt werden). Dadurch wird jedoch auch der Prozess rechenintensiver, was zur Folge hat, dass mehr Zeit für die Berechnung des Outputs benötigt wird.
-
-Auch die Größe des Inputs spielt eine entscheidende Rolle. Bei größerem Input müssen mehr Daten geladen und analysiert werden. Beispielsweise können bei der Musikanalyse kürzere Songs oder nur kleine Songpassagen schneller verarbeitet werden, was zu kürzeren Entscheidungsfindungszeiten führt.
+Die Dauer wird zum einen von der Größe des Inputs bestimmt. Bei größerem Input müssen mehr Daten geladen und analysiert werden. Beispielsweise können bei der Musikanalyse kürzere Songs oder nur kleine Songpassagen schneller verarbeitet werden, was zu kürzeren Entscheidungsfindungszeiten führt.
 
 Zudem ist die Zeitspanne von der Genauigkeit der Vorhersage abhängig.
 
